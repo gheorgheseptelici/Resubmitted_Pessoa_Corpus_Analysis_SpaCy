@@ -1,5 +1,8 @@
 # Digital Corpus Processing of Fernando Pessoa's work with Python's spaCy module
 
+![alt text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_KkW3OElfRLDBX1DijsWNQ.png)
+
+
 ## Project Description:
 Fernando Pessoa was a Portuguese writer and one of the most important poets of the 20th century in Europe. An enigmatic figure, Pessoa's work is divided between his orthonymous writing and his writing under various aliases or, as he was calling them, heteronyms (of which there are around seventy-five). The writer firmly believed that there were multiple consciousnesses living inside him, each with their own biographies, passions and views on life. This is reflectled in the various themes and perspectives explored by Pessoa and his heteronyms in poetry and prose. For further reading on Pessoa and his heteronyms, https://poetrysociety.org/poems-essays/tributes/fernando-pessoa-his-heteronyms is a good resource.
 
@@ -47,8 +50,8 @@ The columns in the annotated .csv file and their descriptions are illustrated in
 | Lemmas |The lemmas of the tokens contained in the corpus' texts     |
 | POS |The detected parts-of-speech of the tokens contained in the corpus' texts      |
 
+### Python packages used:
+Please note that in order to run the code in these Notebooks you will need to install the following Python packages: spaCy, pandas, plotly, nbformat, gutenberg-cleaner, re.
+
 ## License:
 The dataset is available under the terms of the [Project Gutenberg License](https://www.gutenberg.org/policy/license.html).
-
-#### Python packages used:
-Please note that in order to run the code in these Notebooks you will need to install the following Python packages: spaCy, pandas, plotly, nbformat, gutenberg-cleaner, re.
