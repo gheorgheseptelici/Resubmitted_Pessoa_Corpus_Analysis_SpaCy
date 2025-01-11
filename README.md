@@ -1,4 +1,4 @@
-# Digital Corpus Processing of Fernando Pessoa's work with Python's spaCy module
+# Digital Corpus Processing of Fernando Pessoa's Work Using Python's spaCy Module
 
 ![alt text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_KkW3OElfRLDBX1DijsWNQ.png)
 
